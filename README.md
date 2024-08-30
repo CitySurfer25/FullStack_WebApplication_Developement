@@ -1,7 +1,7 @@
 # FullStack_WebApplication_Developement
 
 
-## This project is a full-stack web application designed to [briefly describe the main purpose or functionality of your application, e.g., manage tasks, provide user authentication, e-commerce, etc.]. The application is built using modern web technologies, following best practices in both frontend and backend development.  These projects done under the Laboratory sessions of FULL STACK WEB APPLICATION DEVELOPEMENT Laboratory sessions of Sastra University, Thanjavur.
+## This project is a full-stack web application designed to [briefly describe the main purpose or functionality of your application, e.g., manage tasks, provide user authentication, e-commerce, etc.]. The application is built using modern web technologies, following best practices in both frontend and backend development.  These projects done under the FULL STACK WEB APPLICATION DEVELOPEMENT Laboratory sessions of Sastra University, Thanjavur.
 
 
 ## Type of Stack: MERN
